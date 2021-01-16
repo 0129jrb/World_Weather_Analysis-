@@ -76,10 +76,13 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+random_numbers.ipynb
+API_practice.ipynb
 
 # IPython
 profile_default/
 ipython_config.py
+config.py
 
 # pyenv
 .python-version
